@@ -20,7 +20,23 @@ table.txt (column 2:ASV,3:KO,4:Cancer)
 Rscript arrange_violin_plot_one_tate_graph.R table.txt 2 4 0.5 figure2A.pdf
 Rscript arrange_violin_plot_one_tate_graph.R table.txt 3 4 0.5 figure2B.pdf
 ```
+
+## Figure 2C, 2D, 2E
+
+```sh
+Rscript Fig2C_heatmap.R
+Rscript Fig2D_heatmap.R
+Rscript Fig2E_heatmap.R
+```
+
 ## Figure 3B
+
+```sh
+python Fig3B_forestplot_step1.py
+Rscript Fig3B_forestplot_step2.R
+```
+
+## Figure 3C
 
 ```sh
 forest_medicine.py
