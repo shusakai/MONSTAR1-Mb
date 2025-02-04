@@ -17,8 +17,8 @@ Rscript Fig1D_ggplot_Num_violin_plot_tate_graph.R table.txt 2 7,8,9,10,11,12,13 
 table.txt (column 2:ASV,3:KO,4:Cancer)
 
 ```sh
-Rscript arrange_violin_plot_one_tate_graph.R table.txt 2 4 0.5 figure2A.pdf
-Rscript arrange_violin_plot_one_tate_graph.R table.txt 3 4 0.5 figure2B.pdf
+Rscript Fig2AB_arrange_violin_plot_one_tate_graph.R table.txt 2 4 0.5 figure2A.pdf
+Rscript Fig2AB_arrange_violin_plot_one_tate_graph.R table.txt 3 4 0.5 figure2B.pdf
 ```
 
 ## Figure 2C, 2D, 2E
