@@ -9,7 +9,7 @@ Rscript Fig1C_ggplot_Num_violin_plot_tate_graph.R table.txt 2 3,4,5,6 0.8 figure
 table.txt (column 2:ASV, 7:Drinking, 8:Smoking, 9:Number of defecations per days,10: Yogurt, 11:LABB, 12:Chesese, 13: Miso soup)
 
 ```sh
-Rscript ggplot_Num_violin_plot_tate_graph.R table.txt 2 7,8,9,10,11,12,13 0.8 figure1D.pdf
+Rscript Fig1D_ggplot_Num_violin_plot_tate_graph.R table.txt 2 7,8,9,10,11,12,13 0.8 figure1D.pdf
 ```
 
 ## Figure 2A, 2B
