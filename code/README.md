@@ -39,6 +39,6 @@ Rscript Fig3B_forestplot_step2.R
 ## Figure 3C
 
 ```sh
-forest_medicine.py
-Rscript forestplot_Fig3C.R
+Fig3C_forest_medicine.py
+Rscript Fig3C_forestplot.R
 ```
