@@ -2,7 +2,7 @@
 table.txt (column 2:ASV, 3:Antibiotics, 4:PPIs, 5: Acetaminophen,6:Probiotics)
 
 ```sh
-Rscript ggplot_Num_violin_plot_tate_graph.R table.txt 2 3,4,5,6 0.8 figure1C.pdf
+Rscript Fig1C_ggplot_Num_violin_plot_tate_graph.R table.txt 2 3,4,5,6 0.8 figure1C.pdf
 ```
 
 ## Figure 1D
