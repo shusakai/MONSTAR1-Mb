@@ -8,6 +8,3 @@ This repository includes code folder:
 
 [Code](https://github.com/shusakai/MONSTAR1-Mb/tree/master/code)
 
-## Download the data
-
-We will upload the preprocessed data of 16S rRNA sequencing data.
