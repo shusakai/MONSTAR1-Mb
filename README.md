@@ -10,4 +10,4 @@ This repository includes code folder:
 
 ## Download the data
 
-We will upload the preprocessed data of single-cell spatial transcriptome data.
+We will upload the preprocessed data of 16S rRNA sequencing data.
